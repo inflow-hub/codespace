@@ -26,7 +26,7 @@ int main ()
 
     Py_Finalize();
     huy
-
+    	kaki
     return 0;
     // std::fstream file("forcpp.py");
     // if (file.is_open())
